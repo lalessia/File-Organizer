@@ -10,10 +10,14 @@ This project is an automated file organizer and image analysis tool using Python
 
 ---
 
-## Project Structure
+## Repository Structure
 
 The project follows the following structure:
 
+- files: folder that contains all the files that need to be moved and/or analyzed
+- addfile.py: file created to move a single file by the command line
+- fileorganizer.ipynb: file created to manage **File Organization & Image Analysis**
+- recap.csv: 
 
 ---
 
